@@ -11,4 +11,3 @@ There is just one script called run_analysis.R. It contains all functions and co
 This repo also contains:
 a) The CodeBook (CodeBook.md) that describes the variables and the data.
 b) The final data in "data_tidy.txt"
-c) The RStudio project file
